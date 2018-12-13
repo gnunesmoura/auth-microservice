@@ -2,8 +2,8 @@
 
 Study project where the main purpose is:
 
-* Create a authorization microservice.
-* Gain some deeper knowledge on tecnologies like OAuth2, MongoDB and Express.
+* Create an authorization microservice.
+* Gaining in-depth knowledge about OAuth2, MongoDB and Express.
 
 ## Main Features
 
@@ -12,6 +12,10 @@ This features aren't implemented yet.
 * Access control with verification of permissions to access HTTP resourses.
 * Creation of permissions
 * Creation of roles that represents named collections of permissions
+
+### Documentation 
+
+TODO add postman documentation.
 
 ## Starting Application
 
